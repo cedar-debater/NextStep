@@ -21,3 +21,6 @@ Advertiser can pay to advertise under the original content but the longer advert
 No like of original content- so no skewness
 
 After I finished these, I found listed.to is probably similar to some of my ideas.
+
+# game 2
+a block that jumps up (and getting smaller), controlled by a (blockchain) random number. Highest score triggers the send of a token
